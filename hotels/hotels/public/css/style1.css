@@ -1,0 +1,44 @@
+.error{
+	color: red;
+}
+.modal-content{
+	width: 80%;
+	margin: auto;
+}
+.alert_ajax{
+	background-color: red;
+	width: 276px;
+	border-radius: 6px;
+	position: absolute;
+	top:1%;
+	right: 1%;
+	z-index: 1051;
+	padding-left: 25px;
+	padding-right: 25px;
+	padding-top: 12px;
+	padding-bottom: 12px;
+	
+}
+.alert_ajax span {
+	color: white;
+	font-size: 21px;
+}
+.success{
+	background-color: #4CAF50;
+}
+.alert_1{
+	color: white;
+}
+#image_product{
+	width: 25%;
+	height: 100%;
+}
+#image_product:hover{
+	width: 50%;
+	height: 100%;
+	transition: all 2s;
+}
+.href {
+    color: #2a6496;
+    cursor: pointer;
+}
